@@ -7,4 +7,7 @@ Now, execute the code using py file_name.py.
 To install cv2 use command pip3 install cv2.
 If you don't seem to find python installer package(pip), try reinstalling python.
 
+# Publication : 
+https://www.ijcseonline.org/pdf_spl_paper_view.php?paper_id=1219&IJCSE-ICACICT-2019-30.pdf
+
 
